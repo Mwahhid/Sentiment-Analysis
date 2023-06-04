@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment Analysis Program that predicts whether a review is positive or negative.
+Sentiment Analysis Program written using Python that predicts whether a review is positive or negative.
 
 There are two models for binary classification of text. The first model uses a Forward Propagation Neural Network while the second model is an XGBoost Decision Tree. 
 
