@@ -27,16 +27,16 @@ The Neural Networks Model uses a Forward Propagation algorithm provided by the K
 The Neural Networks had the following accuracies and losses with both datasets:
 
 Movie reviews:
-Training Accuracy:  0.9186750054359436
-Training Loss:  0.2134408950805664
-Testing Accuracy:  0.8360000252723694
-Testing Loss:  0.39441898465156555
+<br>Training Accuracy:  0.9186750054359436
+<br>Training Loss:  0.2134408950805664
+<br>Testing Accuracy:  0.8360000252723694
+<br>Testing Loss:  0.39441898465156555
 
 Steam game reviews:
-Training Accuracy:  0.9302999973297119
-Training Loss:  0.19634073972702026
-Testing Accuracy:  0.7760875225067139
-Testing Loss:  0.5083554983139038
+<br>Training Accuracy:  0.9302999973297119
+<br>Training Loss:  0.19634073972702026
+<br>Testing Accuracy:  0.7760875225067139
+<br>Testing Loss:  0.5083554983139038
 
 The last function of the first model allows a user to type in a comment to be analyzed by the sentiment analysis program whose results are shown as either "positive" or "negative".
 
@@ -45,12 +45,12 @@ For the second model, XGBoost library is used to build decision trees for binary
 The XGBoost Decision Tree had the following accuracies with both datasets:
 
 Movie reviews:
-Training Accuracy: 0.8532
-Testing Accuracy: 0.8264
+<br>Training Accuracy: 0.8532
+<br>Testing Accuracy: 0.8264
 
 Steam game reviews:
-Training Accuracy: 0.8748
-Testing Accuracy: 0.7036295703229251
+<br>Training Accuracy: 0.8748
+<br>Testing Accuracy: 0.7036295703229251
 
 
 
